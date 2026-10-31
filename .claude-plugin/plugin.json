@@ -1,0 +1,11 @@
+{
+  "name": "cctv-to-cinematic",
+  "version": "1.0.0",
+  "description": "Turn a security-camera clip into a cinematic AI recreation in one Seedance 2.5 generation, perfectly synced to the original, with prompt review loops before any credits are spent.",
+  "author": {
+    "name": "Refael Levi",
+    "url": "https://instagram.com/refaelleviii"
+  },
+  "license": "MIT",
+  "keywords": ["cctv", "video", "seedance", "higgsfield", "cinematic", "reels"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cctv-to-cinematic",
+  "owner": {
+    "name": "Refael Levi"
+  },
+  "plugins": [
+    {
+      "name": "cctv-to-cinematic",
+      "source": "./",
+      "description": "CCTV clip to cinematic AI recreation, synced frame by frame with the original (Seedance 2.5 via Higgsfield)."
+    }
+  ]
+}
